@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "shrill-salad-a93e",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "397ea2ff-86ed-437f-8b1d-b07bfc1183a2",
+      "database_name": "shrill-salad-a93e-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
